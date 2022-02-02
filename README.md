@@ -27,3 +27,18 @@ Bawarchi restarent is famous for spicy biryani located hydrabad, **india near rt
 
 [below is my image](https://github.com/chaitanya-chundiwar/assignment2-chundiwar/blob/main/AboutMe.md)
 [link is above](https://github.com/chaitanya-chundiwar/assignment2-chundiwar/blob/main/AboutMe.md)
+
+
+
+
+------------------------------------------------------------------------
+
+# Sports
+
+| Name   | Location   | Amount   |
+|--------|------------|----------|
+| BADMINTAN   | Nagpur   | $35   |
+| Tennies   | Mumbai   | $25   |
+| chess   | chennai   |$55   |
+
+-------------------------------------------------------------------------
