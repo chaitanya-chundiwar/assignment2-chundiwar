@@ -42,3 +42,16 @@ Bawarchi restarent is famous for spicy biryani located hydrabad, **india near rt
 | chess   | chennai   |$55   |
 
 -------------------------------------------------------------------------
+
+
+# Quotes
+
+>"It's fine to celebrate success, but it is more important to heed the lessons of failure."
+
+>"Intellectual property has the shelf life of a banana."
+
+--------------------------------------------------------------------------
+
+
+
+
