@@ -7,8 +7,8 @@ Bawarchi restarent is famous for spicy biryani located hydrabad, **india near rt
 
 --------------------------------------------------------------
 
-# Kempikowda International  Airport
-## Gannavaram Airport is the closest Airport  located about 30 kilometres  suburb of Devanahalli ,Bengalore,India
+# Kempigowda International  Airport
+## kempigowda Airport is the closest Airport  located about 30 kilometres  suburb of Devanahalli ,Bengalore,India
 
    - The airport opened in May 2008 as an alternative to increased congestion at HAL Airport
 
@@ -21,5 +21,5 @@ Bawarchi restarent is famous for spicy biryani located hydrabad, **india near rt
 ## Food items
 
 1. Ice Creams
-2. Freshes juices
+2. Fresh juices
 3. Snakes 
